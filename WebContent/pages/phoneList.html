@@ -1,0 +1,34 @@
+<div class="container">
+	<div class="headerClass"></div>
+	<div class='navbar navbar-inverse'>
+		<div class='navbar-inner nav-collapse'>
+			<ul class="nav">
+				<li class="active"><a href="#/phones">Product Home</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id='content' class='row-fluid'>
+		<div class='span9 main'>
+			<div class="detailsOuterDiv">
+				<div id="myList" scrollnext="phones" class="detailsInnerDiv">
+					<div ng-repeat="phone in phones | filter:query" class="detailGrid">
+						<div id="{{$index}}">
+							<a href="#">
+								<image ng-src="{{phone.image}}" class="imageStyle" /> 
+							</a>
+							<br>{{phone.name | uppercase}} <br>Price:{{phone.price | number}}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footerClass"></div>
+	<div class='navbar navbar-inverse'>
+		<div class='navbar-inner nav-collapse' style="height: auto;">
+			<ul class="nav">
+				<li class="active"></li>
+			</ul>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,240 @@
+[
+    {
+        "name": "nokia e6",
+        "phoneId": "e6",
+        "price": "17000",
+        "image": "images/phones/nokia_e6.jpg",
+        "details": {
+            "name": "nokia e6",
+            "price": "17000",
+            "image": "images/phones/nokia_e6.jpg",
+            "desc": "The E6-00 is a Symbian Anna business phone with a QWERTY keypad and a Capacitive touch screen couped with a 8MP camera.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "nokia e5",
+        "phoneId": "e5",
+        "price": "8800",
+        "image": "images/phones/nokia_e5.jpg",
+        "details": {
+            "name": "nokia e5",
+            "price": "8800",
+            "image": "images/phones/nokia_e5.jpg",
+            "desc": "The E5 is the successor to the hugely popular E63 with more sleek looks and a lot of metal used in the design.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Samsung Galaxy Y",
+        "phoneId": "sgy",
+        "price": "7200",
+        "image": "images/phones/samsung_g.jpg",
+        "details": {
+            "name": "Samsung Galaxy Y",
+            "price": "7200",
+            "image": "images/phones/samsung_g.jpg",
+            "desc": "Galaxy Y Plus is an Dual SIM Android smartphone with 850 MHz Processor.It comes with 2.8 Inch Display, 3G, WiFi and 1200 mAh battery.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sony Xperia",
+        "phoneId": "sx",
+        "price": "16600",
+        "image": "images/phones/sony_x.jpg",
+        "details": {
+            "name": "Sony Xperia",
+            "price": "16600",
+            "image": "images/phones/sony_x.jpg",
+            "desc": "Sony Ericsson Xperia active which is designed for active lifestyles. Its water-proof and dust proof.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nexus",
+        "phoneId": "nxs",
+        "price": "14999",
+        "image": "images/phones/nexus.jpg",
+        "details": {
+            "name": "Nexus",
+            "price": " 14999",
+            "image": "images/phones/nexus.jpg",
+            "desc": "Nexus is an Android smartphone which comes with 3.5 Inch display, 3MP Camera and 1GHz processor.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sony Xperia Z",
+        "phoneId": "sxz",
+        "price": "22000",
+        "image": "images/phones/sony_xz.jpg",
+        "details": {
+            "name": "Sony Xperia Z",
+            "price": "22000",
+            "image": "images/phones/sony_xz.jpg",
+            "desc": "Sony Xperia Z is an Android Smartphone with 1.2 GHz Dual Core Processor and 1GB RAM . It runs on Android 4.1.2. JellyBean.",
+            "videoUrls": []
+        }
+    },
+    {
+        "name": "nokia e6",
+        "phoneId": "e6",
+        "price": "17000",
+        "image": "images/phones/nokia_e6.jpg",
+        "details": {
+            "name": "nokia e6",
+            "price": "17000",
+            "image": "images/phones/nokia_e6.jpg",
+            "desc": "The E6-00 is a Symbian Anna business phone with a QWERTY keypad and a Capacitive touch screen couped with a 8MP camera.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "nokia e5",
+        "phoneId": "e5",
+        "price": "8800",
+        "image": "images/phones/nokia_e5.jpg",
+        "details": {
+            "name": "nokia e5",
+            "price": "8800",
+            "image": "images/phones/nokia_e5.jpg",
+            "desc": "The E5 is the successor to the hugely popular E63 with more sleek looks and a lot of metal used in the design.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Samsung Galaxy Y",
+        "phoneId": "sgy",
+        "price": "7200",
+        "image": "images/phones/samsung_g.jpg",
+        "details": {
+            "name": "Samsung Galaxy Y",
+            "price": "7200",
+            "image": "images/phones/samsung_g.jpg",
+            "desc": "Galaxy Y Plus is an Dual SIM Android smartphone with 850 MHz Processor.It comes with 2.8 Inch Display, 3G, WiFi and 1200 mAh battery.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sony Xperia",
+        "phoneId": "sx",
+        "price": "16600",
+        "image": "images/phones/sony_x.jpg",
+        "details": {
+            "name": "Sony Xperia",
+            "price": "16600",
+            "image": "images/phones/sony_x.jpg",
+            "desc": "Sony Ericsson Xperia active which is designed for active lifestyles. Its water-proof and dust proof.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nexus",
+        "phoneId": "nxs",
+        "price": "14999",
+        "image": "images/phones/nexus.jpg",
+        "details": {
+            "name": "Nexus",
+            "price": " 14999",
+            "image": "images/phones/nexus.jpg",
+            "desc": "Nexus is an Android smartphone which comes with 3.5 Inch display, 3MP Camera and 1GHz processor.",
+            "videoUrls": [
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                },
+                {
+                    "videoUrl": "http://www.youtube.com/watch?v=2LHv1FPd1Ec"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sony Xperia Z",
+        "phoneId": "sxz",
+        "price": "22000",
+        "image": "images/phones/sony_xz.jpg",
+        "details": {
+            "name": "Sony Xperia Z",
+            "price": "22000",
+            "image": "images/phones/sony_xz.jpg",
+            "desc": "Sony Xperia Z is an Android Smartphone with 1.2 GHz Dual Core Processor and 1GB RAM . It runs on Android 4.1.2. JellyBean.",
+            "videoUrls": []
+        }
+    }
+]
